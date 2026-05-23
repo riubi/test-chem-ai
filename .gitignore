@@ -1,0 +1,14 @@
+# данные (не коммитим — содержат закрытые лабораторные данные)
+# кеши и логи
+oof/test_preds/
+oof_v2/
+catboost_info/
+*.pyc
+__pycache__/
+.venv/
+.DS_Store
+# модели, регенерируются из ноутбука
+models/*.cbm
+models/*.pkl
+# временные файлы jupyter
+.ipynb_checkpoints/
