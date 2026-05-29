@@ -4,6 +4,8 @@
 
 **Ноутбук воспроизводит: LB ~278** — простой ансамбль из 4 моделей (ExtraTrees + LightGBM + XGBoost + CatBoost), равные веса, log1p только для SI.
 
+**[Презентация проекта](https://docs.google.com/presentation/d/1njf9kHm3Q9d_ZIsu_WLK7MtnycCdus3q5o0ToknkWHM/edit?usp=sharing)** (Google Slides)
+
 ---
 
 ## Задача
